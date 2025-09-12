@@ -16,7 +16,7 @@ public class Main {
         );
 
         MaquinaCacaNiquel maquina = new MaquinaCacaNiquel(5, rolos);
-        Cassino cassino = new Cassino("Cassino ChatGPT");
+        Cassino cassino = new Cassino("Cassino da Galera");
 
         Jogador j1 = new Jogador("Marcos", 100, 18);
         cassino.adicionarJogador(j1);
@@ -24,4 +24,5 @@ public class Main {
 
         cassino.iniciarJogo(j1, maquina, 10);
     }
+
 }
