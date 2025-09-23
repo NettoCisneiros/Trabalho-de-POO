@@ -8,6 +8,4 @@ Integrantes do grupo:
 
  matrícula: 01841061 Nome: Matheus Pacífico de Melo
 
- matrícula: 01783128 Nome: Arthur Vinicios da Silva Martins
-
- matrícula: 01811919 Nome: Maria Maezia 
+ matrícula: 01783128 Nome: Arthur Vinicios da Silva Martins 
